@@ -1,0 +1,10 @@
+
+public class javarun1 {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello");
+        //added new line
+        System.out.println("second");
+    }
+}
