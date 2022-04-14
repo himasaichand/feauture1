@@ -7,5 +7,6 @@ public class javarun1 {
         System.out.println("Hello");
         //added new line
         System.out.println("second");
+        //added second
     }
 }
